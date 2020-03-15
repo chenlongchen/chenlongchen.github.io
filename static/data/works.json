@@ -1,0 +1,560 @@
+[
+  {
+    "slug": "stubhub-gift-rapper",
+    "date": "2018",
+    "title": "Gift Rapper",
+    "client": "StubHub",
+    "agency": "UNIT9",
+    "tech": "Node.js, React, Redux and Styled components",
+    "description": "StubHub in 2018 holiday season, they wanted to make the experience of ticket-getting and gifting fun, memorable and oh-so-sharable. Combining the power of hip hop and artificial intelligence it was created a holiday experience that allowed users to gift event tickets in a more engaging way. From a series of seemingly simple questions our AI was churning a dynamically-generated rap (written and performed by Guinness record setter MC MURS). The front-end is built on top of React, Redux and styled components, and the backend is supported by python built on top of Flask. The quiz itself had 8,160 possible different results, and each answer had a corresponding snippet in the lyrics and time code in the background music. We built a node application that generates all the song variations; for each song, it mixes the audio recordings into a full track, generating subtitles file in a SRT format. To create the final result, the node application combined the voice audio track, background music, motion graphics and subtitles together into a single video file.",
+    "color": "0xFFFFFF",
+    "type": "FILTER_WEBSITES",
+    "role": "Tech lead and Front-end Developer",
+    "link": "https://www.giftrapper.com/",
+    "grid": [],
+    "horizontals": [
+      { "id": "01", "fileType": "gif" },
+      { "id": "02", "fileType": "gif" },
+      { "id": "03", "fileType": "gif" },
+      { "id": "04", "fileType": "gif" }
+    ],
+    "active": true,
+    "awards": [
+      { "type": "FWA", "label": "Site of the Day", "date": "10th December 2018" }
+    ]
+  },
+  {
+    "slug": "say-yes-to-the-world-2",
+    "date": "2018",
+    "title": "#SayYesToTheWorld 2.0",
+    "client": "Lufthansa",
+    "agency": "UNIT9",
+    "tech": "React and Redux",
+    "description": "Lufthansa asked travelers, “Why do you love the world?” and wanted to give rewards to people who participated. Using a custom-built WebGL globe, users could explore the Earth and choose the place they wanted to visit most. They were then invited to enter a thrilling sweepstakes to win a trip there. If they win, they could take their friends along for the adventure of a lifetime.",
+    "color": "0x000000",
+    "type": "FILTER_WEBSITES",
+    "role": "Tech lead and Front-end Developer",
+    "link": "https://sayyestotheworld.com/",
+    "grid": [],
+    "horizontals": [
+      { "id": "01", "fileType": "jpg" },
+      { "id": "02", "fileType": "jpg" },
+      { "id": "03", "fileType": "jpg" },
+      { "id": "04", "fileType": "jpg" },
+      { "id": "05", "fileType": "jpg" }
+    ],
+    "active": true,
+    "awards": []
+  },
+  {
+    "slug": "personal-portfolio",
+    "date": "2018",
+    "title": "icantcontrolmyego 2018",
+    "active": false,
+    "awards": [
+      { "type": "FWA", "label": "Site of the Day", "date": "11th May 2018" },
+      {
+        "type": "Awwwards",
+        "label": "Site of the Day",
+        "date": "11th May 2018"
+      },
+      {
+        "type": "FWAWWWARD",
+        "label": "Site of the Day",
+        "date": "11th May 2018"
+      }
+    ]
+  },
+  {
+    "slug": "nike-air",
+    "date": "2018",
+    "title": "Nike Air Hub",
+    "client": "Nike",
+    "agency": "UNIT9",
+    "tech": "React, Redux and SVG Masking",
+    "description": "A visually rich, collage-esque experience that showcases Nike Air products and heritage. When users arrive at the experience, they’re greeted with fun animations, want-to-know-more visuals and click-worthy product callouts that make shopping more exciting. An interactive timeline featuring the history of Nike Air.<br /><sup>– from UNIT9's website</sup>",
+    "color": "0x000000",
+    "type": "FILTER_WEBSITES",
+    "role": "Tech lead and Front-end Developer",
+    "link": "https://www.jdsports.co.uk/page/nike-air/",
+    "grid": [
+      { "id": "01", "fileType": "jpg" },
+      { "id": "02", "fileType": "jpg" },
+      { "id": "03", "fileType": "jpg" },
+      { "id": "04", "fileType": "jpg" },
+      { "id": "05", "fileType": "jpg" }
+    ],
+    "horizontals": [
+      { "id": "06", "fileType": "jpg" },
+      { "id": "intro", "fileType": "gif" },
+      { "id": "07", "fileType": "jpg" },
+      { "id": "08", "fileType": "jpg" },
+      { "id": "09", "fileType": "jpg" },
+      { "id": "10", "fileType": "jpg" },
+      { "id": "11", "fileType": "jpg" },
+      { "id": "12", "fileType": "jpg" }
+    ],
+    "active": true,
+    "awards": []
+  },
+  {
+    "slug": "corvette-interactive-modules",
+    "date": "2017",
+    "title": "Corvette Modules",
+    "client": "Corvette",
+    "agency": "UNIT9",
+    "tech": "Canvas, WebGL, WebAudio and DeviceOrientation",
+    "description": "We were given the opportunity to create an interface that will give users a better insight of Corvette ZR1 and let them explore its components. We designed an interactive engine sound visualiser that will enable users to freely ‘push the pedal’ by tilting their device and hear the actual revving engine sound, coupled with responsive visuals.<br /><sup>– from UNIT9's website</sup>",
+    "color": "0xFFFFFF",
+    "type": "FILTER_WEBSITES",
+    "role": "Tech lead and Front-end Developer",
+    "link": "http://www.chevrolet.com/performance/corvette-zr1-supercar#performance",
+    "grid": [
+      { "id": "01", "fileType": "jpg" },
+      { "id": "02", "fileType": "jpg" },
+      { "id": "03", "fileType": "jpg" },
+      { "id": "04", "fileType": "jpg" },
+      { "id": "05", "fileType": "jpg" }
+    ],
+    "horizontals": [
+      { "id": "07", "fileType": "jpg" },
+      { "id": "08", "fileType": "jpg" }
+    ],
+    "active": true,
+    "awards": []
+  },
+  {
+    "slug": "lufthansa-life-changing-places",
+    "date": "2017",
+    "title": "#LifeChangingPlaces",
+    "client": "Lufthansa",
+    "agency": "UNIT9",
+    "tech": "React, Redux, Canvas 2D and WebGL",
+    "description": "An interactive tool for users to set their preferences and generate a Life Changing Trip. Using a drag and slide marker the site asks you to select a preferred climate, architecture, activities and population density. As you scroll across each preference, the background imagery morphs between settings.<br /><sup>– from UNIT9's website</sup>",
+    "color": "0xFFFFFF",
+    "type": "FILTER_WEBSITES",
+    "role": "Tech lead and Front-end Developer",
+    "link": "https://vimeo.com/256965481",
+    "grid": [
+      { "id": "01", "fileType": "jpg" },
+      { "id": "02", "fileType": "jpg" },
+      { "id": "06", "fileType": "gif" },
+      { "id": "05", "fileType": "jpg" },
+      { "id": "07", "fileType": "gif" }
+    ],
+    "horizontals": [
+      { "id": "08", "fileType": "jpg" },
+      { "id": "10", "fileType": "jpg" },
+      { "id": "11", "fileType": "jpg" },
+      { "id": "12", "fileType": "jpg" },
+      { "id": "13", "fileType": "jpg" },
+      { "id": "14", "fileType": "jpg" }
+    ],
+    "active": true,
+    "awards": [
+      { "type": "FWA", "label": "Site of the Day", "date": "19th January 2018" }
+    ]
+  },
+  {
+    "slug": "magicians-welcome-to-fillory",
+    "date": "2016",
+    "title": "The Magicians II",
+    "client": "SyFy",
+    "agency": "UNIT9",
+    "tech": "Angular and WebGL",
+    "description": "The second season takes place in the magical world of Fillory, so we created a 3D map for fans to explore. UNIT9’s team of programmers used WebGL (Three.js) and GLSL to develop the interactive map where users can embark on quests and discover more about season two of the show.<br /><sup>– from UNIT9's website</sup>",
+    "color": "0xFFFFFF",
+    "type": "FILTER_WEBSITES",
+    "role": "Tech lead and Front-end Developer",
+    "link": "http://www.welcometofillory.com/",
+    "grid": [
+      { "id": "06", "fileType": "gif" },
+      { "id": "08", "fileType": "jpg" },
+      { "id": "07", "fileType": "jpg" },
+      { "id": "10", "fileType": "jpg" },
+      { "id": "09", "fileType": "jpg" }
+    ],
+    "horizontals": [
+      { "id": "01", "fileType": "jpg" },
+      { "id": "02", "fileType": "jpg" },
+      { "id": "03", "fileType": "jpg" },
+      { "id": "03g", "fileType": "gif" },
+      { "id": "04", "fileType": "jpg" },
+      { "id": "05", "fileType": "jpg" }
+    ],
+    "active": true,
+    "awards": [
+      { "type": "FWA", "label": "Site of the Day", "date": "25 February 2017" },
+      {
+        "type": "FWA",
+        "label": "Site of the Day (Tablet)",
+        "date": "30 August 2017"
+      },
+      {
+        "type": "Awwwards",
+        "label": "Site of the Day",
+        "date": "08 March 2017"
+      },
+      {
+        "type": "CSS Design Awards",
+        "label": "Site of the Day",
+        "date": "24 February 2017"
+      }
+    ]
+  },
+  {
+    "slug": "airbnb-family-trips",
+    "date": "2017",
+    "title": "Family Trips",
+    "client": "Airbnb",
+    "agency": "UNIT9",
+    "tech": "React, Redux and SVG Animations",
+    "description": "Airbnb invites families to come together and define what their next vacation might look like through a series of mobile-first, smart logic interactions.<br /><sup>– from UNIT9's website</sup>",
+    "color": "0xFFFFFF",
+    "type": "FILTER_WEBSITES",
+    "role": "Front-end Developer",
+    "link": "",
+    "grid": [
+      { "id": "02", "fileType": "jpg" },
+      { "id": "01", "fileType": "jpg" },
+      { "id": "03", "fileType": "jpg" },
+      { "id": "05", "fileType": "jpg" },
+      { "id": "06", "fileType": "jpg" },
+      { "id": "07", "fileType": "jpg" }
+    ],
+    "horizontals": [
+      { "id": "airbnb02", "fileType": "gif" },
+      { "id": "08", "fileType": "jpg" },
+      { "id": "09", "fileType": "jpg" },
+      { "id": "10", "fileType": "jpg" },
+      { "id": "11", "fileType": "jpg" },
+      { "id": "12", "fileType": "gif" }
+    ],
+    "active": true,
+    "awards": []
+  },
+  {
+    "slug": "crown-royal-crown-father",
+    "date": "2017",
+    "title": "Crown Father",
+    "client": "Crown Royal",
+    "agency": "UNIT9",
+    "tech": "React, Redux and CSS Masks",
+    "description": "Users can take a photo of their heroic father figure. Then they can turn it into a digital regal portrait, which they can share on social.<br /><sup>– from UNIT9's website</sup>",
+    "color": "0xFFFFFF",
+    "type": "FILTER_WEBSITES",
+    "role": "Front-end Developer",
+    "link": "",
+    "grid": [
+      { "id": "02", "fileType": "jpg" },
+      { "id": "01", "fileType": "gif" },
+      { "id": "03", "fileType": "jpg" },
+      { "id": "04", "fileType": "jpg" },
+      { "id": "06", "fileType": "jpg" },
+      { "id": "07", "fileType": "jpg" }
+    ],
+    "horizontals": [],
+    "active": true,
+    "awards": []
+  },
+  {
+    "slug": "zurich-true-love-maps",
+    "date": "2016",
+    "title": "True Love Maps",
+    "client": "Zurich",
+    "agency": "UNIT9",
+    "tech": "Canvas 2D, Google Maps API (Streetview)",
+    "description": "A Google Maps integrated site celebrating love. Go back to the most special place in the world for you, mark the spot and share the memory with a loved one!",
+    "color": "0xFFFFFF",
+    "type": "FILTER_WEBSITES",
+    "role": "Front-end Developer",
+    "link": "",
+    "grid": [
+      { "id": "01", "fileType": "jpg" },
+      { "id": "02", "fileType": "jpg" },
+      { "id": "04", "fileType": "jpg" }
+    ],
+    "horizontals": [
+      { "id": "05", "fileType": "jpg" },
+      { "id": "06", "fileType": "jpg" },
+      { "id": "07", "fileType": "jpg" },
+      { "id": "08", "fileType": "jpg" },
+      { "id": "09", "fileType": "jpg" },
+      { "id": "10", "fileType": "jpg" }
+    ],
+    "active": true,
+    "awards": [
+      { "type": "FWA", "label": "Site of the Day", "date": "27 March 2016" }
+    ]
+  },
+  {
+    "slug": "chevrolet-looking-up",
+    "date": "2016",
+    "title": "Looking Up",
+    "client": "Chevrolet",
+    "agency": "UNIT9",
+    "tech": "Angular, Coffeescript and SVG Graphics",
+    "description": "Chevy, Looking Up invites users to answer a series of questions to see just how tech-attached they really are, including multiple choice and an app icon matching game. At the end of the quiz, test takers get categorized as The Uncorrupted or The Obsessive, receiving either a warning or praise of how connected they really are.<br /><sup>– from UNIT9's website</sup>",
+    "color": "0xFFFFFF",
+    "type": "FILTER_WEBSITES",
+    "role": "Tech lead and Front-end Developer",
+    "link": "",
+    "grid": [
+      { "id": "11", "fileType": "jpg" },
+      { "id": "12", "fileType": "jpg" },
+      { "id": "13", "fileType": "jpg" },
+      { "id": "14", "fileType": "jpg" }
+    ],
+    "horizontals": [
+      { "id": "02", "fileType": "jpg" },
+      { "id": "03", "fileType": "jpg" },
+      { "id": "04", "fileType": "jpg" },
+      { "id": "05", "fileType": "jpg" },
+      { "id": "06", "fileType": "jpg" },
+      { "id": "07", "fileType": "jpg" },
+      { "id": "08", "fileType": "jpg" },
+      { "id": "09", "fileType": "jpg" },
+      { "id": "10", "fileType": "jpg" }
+    ],
+    "active": true,
+    "awards": []
+  },
+  {
+    "slug": "the-forest-360-experience",
+    "date": "2015",
+    "title": "The Forest",
+    "client": "Focus Features",
+    "agency": "UNIT9",
+    "tech": "Canvas 2D/3D, WebGL",
+    "description": "The Forest takes users deeper into their own minds and fears. Using a recreation of Google Street View, you advance through four levels. You need to find clues scattered around Aokigahara to unlock the path out of the forest. Both your Google Cardboard headset and mobile allow you to explore your surroundings in 360º.\"<i><br /><sup>– from UNIT9's website</sup>",
+    "color": "0xFFFFFF",
+    "type": "FILTER_WEBSITES",
+    "role": "Front-end Developer",
+    "link": "",
+    "grid": [
+      { "id": "11", "fileType": "jpg" },
+      { "id": "12", "fileType": "jpg" },
+      { "id": "14", "fileType": "jpg" },
+      { "id": "13", "fileType": "jpg" }
+    ],
+    "horizontals": [
+      { "id": "01", "fileType": "jpg" },
+      { "id": "02", "fileType": "jpg" },
+      { "id": "03", "fileType": "jpg" },
+      { "id": "04", "fileType": "jpg" },
+      { "id": "08", "fileType": "jpg" },
+      { "id": "09", "fileType": "jpg" }
+    ],
+    "active": true,
+    "awards": [
+      { "type": "FWA", "label": "Site of the Day", "date": "25 January 2016" }
+    ]
+  },
+  {
+    "slug": "virry-app",
+    "date": "2015",
+    "title": "Virry App",
+    "client": "Fountain Digital Lab",
+    "agency": "UNIT9",
+    "tech": "Adobe Flex",
+    "description": "An app for young kids. Its interactive videos give kids the feeling they’re playing with real lions, rhinos, giraffes and meerkats. And live HD video lets them watch the same animals at their home in the zoo.",
+    "color": "0xFFFFFF",
+    "type": "FILTER_WEBSITES",
+    "role": "Mobile Developer",
+    "link": "http://virryapp.com/",
+    "grid": [],
+    "horizontals": [
+      { "id": "02", "fileType": "jpg" },
+      { "id": "03", "fileType": "jpg" },
+      { "id": "04", "fileType": "jpg" },
+      { "id": "05", "fileType": "jpg" }
+    ],
+    "active": true,
+    "awards": [
+      {
+        "type": "FWA",
+        "label": "Mobile of the Day",
+        "date": "10 November 2015"
+      },
+      { "type": "Lovies", "label": "People's Choice", "date": "2015" },
+      { "type": "Lovies", "label": "Bronze Award", "date": "2015" },
+      { "type": "BAFTA", "label": "People's Choice", "date": "2016" },
+      {
+        "type": "Webby",
+        "label": "Family & Kids | People's Voice",
+        "date": "2016"
+      },
+      {
+        "type": "Webby",
+        "label": "Best Streaming Video | Honoree",
+        "date": "2016"
+      }
+    ]
+  },
+  {
+    "slug": "calendar-me",
+    "date": "2015",
+    "title": "Calendar Me",
+    "client": "Three",
+    "agency": "UNIT9",
+    "tech": "Backbone and Coffeescript",
+    "description": "Three’s CalendarMe is a bespoke calendar created by Wieden + Kennedy and UNIT9 that allows you to give your loved ones the gift that keeps on giving: your face. After you take a selfie using your desktop, tablet or mobile webcam, the image is integrated into twelve different scenes, one for every month of 2015.\"<i><br /><sup>– from UNIT9's website</sup>",
+    "color": "0x000000",
+    "type": "FILTER_WEBSITES",
+    "role": "Front-end Developer",
+    "link": "",
+    "grid": [
+      { "id": "09", "fileType": "jpg" },
+      { "id": "10", "fileType": "jpg" },
+      { "id": "11", "fileType": "jpg" }
+    ],
+    "horizontals": [
+      { "id": "02", "fileType": "jpg" },
+      { "id": "03", "fileType": "jpg" },
+      { "id": "04", "fileType": "jpg" },
+      { "id": "05", "fileType": "jpg" },
+      { "id": "06", "fileType": "jpg" },
+      { "id": "07", "fileType": "jpg" },
+      { "id": "08", "fileType": "jpg" }
+    ],
+    "active": true,
+    "awards": [
+      {
+        "type": "FWA",
+        "label": "Mobile of the Day",
+        "date": "21 February 2015"
+      }
+    ]
+  },
+  {
+    "slug": "find-your-way-to-oz",
+    "date": "2013",
+    "title": "Find Your Way to Oz",
+    "client": "Disney",
+    "agency": "UNIT9",
+    "tech": "Coffeescript, Canvas 2D, WebGL, GLSL and MediaDevices API",
+    "description": "Find Your Way to Oz is a new Google Chrome Experiment brought to the web by Disney. It allows you to take an interactive journey through a Kansas circus. You are swept up by a massive storm which leads you to the land of Oz. In this project our goal was to combine the richness of cinema with the technical capabilities of the browser to create a fun, immersive experience that users can form a strong connection with.<br /><sup>– from UNIT9's website</sup>",
+    "color": "0xFFFFFF",
+    "type": "FILTER_WEBSITES",
+    "role": "Front-end Developer",
+    "link": "http://www.findyourwaytooz.com/",
+    "grid": [],
+    "horizontals": [
+      { "id": "02", "fileType": "jpg" },
+      { "id": "03", "fileType": "jpg" },
+      { "id": "04", "fileType": "jpg" },
+      { "id": "05", "fileType": "jpg" },
+      { "id": "10", "fileType": "jpg" },
+      { "id": "11", "fileType": "jpg" },
+      { "id": "06", "fileType": "jpg" },
+      { "id": "07", "fileType": "jpg" },
+      { "id": "08", "fileType": "jpg" },
+      { "id": "09", "fileType": "jpg" }
+    ],
+    "active": true,
+    "awards": [
+      { "type": "FWA", "label": "Site of the Day", "date": "26 February 2013" },
+      {
+        "type": "FWA",
+        "label": "Site of the Month",
+        "date": "26 February 2013"
+      },
+      {
+        "type": "FWA",
+        "label": "The Cutting Edge Award",
+        "date": "04 March 2013"
+      },
+      {
+        "type": "FWA",
+        "label": "The Cutting Edge of the Year",
+        "date": "2013"
+      },
+      {
+        "type": "Awwwards",
+        "label": "Site of the Day",
+        "date": "26 February 2013"
+      }
+    ]
+  },
+  {
+    "slug": "assassins-creed-iv-black-flag",
+    "date": "2013",
+    "title": "Assassin's Creed IV - Black Flag",
+    "client": "Ubisoft",
+    "agency": "UNIT9",
+    "tech": "Backbone, Coffeescript, Canvas 2D and DeepZoom",
+    "description": "Users were encouraged to become part of the painting in two phases. Phase one of the project allows users to post their faces within the painting, sharing and competing in duels with opponents. At the beginning of the recruitment period, all 200 characters will be open for application and voting. The second phase of the project is to gradually reveal the painted masterpiece to the world.<br /><sup>– from UNIT9's website</sup>",
+    "color": "0xFFFFFF",
+    "type": "FILTER_WEBSITES",
+    "role": "Front-end Developer",
+    "link": "",
+    "grid": [],
+    "horizontals": [
+      { "id": "01", "fileType": "jpg" },
+      { "id": "02", "fileType": "jpg" },
+      { "id": "03", "fileType": "jpg" }
+    ],
+    "active": true,
+    "awards": [
+      { "type": "FWA", "label": "Site of the Day", "date": "05 December 2013" },
+      {
+        "type": "FWA",
+        "label": "The Cutting Edge Award",
+        "date": "18 November 2013"
+      },
+      {
+        "type": "Webby",
+        "label": "Game or Application - Honoree",
+        "date": "2014"
+      },
+      {
+        "type": "Creative Review",
+        "label": "Creative Review Annual",
+        "date": "2014"
+      },
+      { "type": "Cannes Lions", "label": "Cannes Lions", "date": "2014" }
+    ]
+  },
+  {
+    "slug": "spike-path",
+    "date": "2017",
+    "title": "Spike Path",
+    "client": "Playground",
+    "agency": "",
+    "tech": "React, Redux, SVG Masking",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed vestibulum sem. In hac habitasse platea dictumst. Mauris viverra urna id commodo egestas. Cras a nisl mauris. Praesent purus orci, dictum vel quam non, imperdiet interdum nunc. Aliquam erat volutpat. Ut vitae malesuada mi. Nulla eget placerat ex, et pellentesque velit. Mauris in interdum justo. Duis eget lectus lobortis enim volutpat viverra. Donec venenatis viverra enim at suscipit. Vestibulum ex nulla, hendrerit vitae elementum quis, mattis in nisl. Mauris et sapien eget quam placerat suscipit non vel felis. Nulla at libero ut eros venenatis tincidunt. Morbi nec leo eu risus molestie vehicula. Vivamus ac quam quis erat imperdiet rhoncus. Quisque sit amet tristique neque.",
+    "color": "0x000000",
+    "type": "FILTER_PLAYGROUND",
+    "role": "Front-end Developer",
+    "link": "http://www.google.com",
+    "active": false
+  },
+  {
+    "slug": "glsl-seamless-texture-transition",
+    "date": "2017",
+    "title": "Seamless Texture Transition",
+    "client": "Playground",
+    "agency": "",
+    "tech": "React, Redux, SVG Masking",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed vestibulum sem. In hac habitasse platea dictumst. Mauris viverra urna id commodo egestas. Cras a nisl mauris. Praesent purus orci, dictum vel quam non, imperdiet interdum nunc. Aliquam erat volutpat. Ut vitae malesuada mi. Nulla eget placerat ex, et pellentesque velit. Mauris in interdum justo. Duis eget lectus lobortis enim volutpat viverra. Donec venenatis viverra enim at suscipit. Vestibulum ex nulla, hendrerit vitae elementum quis, mattis in nisl. Mauris et sapien eget quam placerat suscipit non vel felis. Nulla at libero ut eros venenatis tincidunt. Morbi nec leo eu risus molestie vehicula. Vivamus ac quam quis erat imperdiet rhoncus. Quisque sit amet tristique neque.",
+    "color": "0xFFFFFF",
+    "type": "FILTER_PLAYGROUND",
+    "role": "Front-end Developer",
+    "link": "http://www.google.com",
+    "active": false
+  },
+  {
+    "slug": "gpgpu-particles-letters",
+    "date": "2017",
+    "title": "GPGPU Particle Letters",
+    "client": "Playground",
+    "agency": "",
+    "tech": "React, Redux, SVG Masking",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed vestibulum sem. In hac habitasse platea dictumst. Mauris viverra urna id commodo egestas. Cras a nisl mauris. Praesent purus orci, dictum vel quam non, imperdiet interdum nunc. Aliquam erat volutpat. Ut vitae malesuada mi. Nulla eget placerat ex, et pellentesque velit. Mauris in interdum justo. Duis eget lectus lobortis enim volutpat viverra. Donec venenatis viverra enim at suscipit. Vestibulum ex nulla, hendrerit vitae elementum quis, mattis in nisl. Mauris et sapien eget quam placerat suscipit non vel felis. Nulla at libero ut eros venenatis tincidunt. Morbi nec leo eu risus molestie vehicula. Vivamus ac quam quis erat imperdiet rhoncus. Quisque sit amet tristique neque.",
+    "color": "0xFFFFFF",
+    "type": "FILTER_PLAYGROUND",
+    "role": "Front-end Developer",
+    "link": "http://www.google.com",
+    "active": false
+  }
+]
